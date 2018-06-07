@@ -1,10 +1,18 @@
+-- This file was automatically generated for the LuaDist project.
+
 package = "astar"
 version = "0.1.1-1"
 
+-- LuaDist source
 source = {
-  url = "git://github.com/reasonMix/a-star-algorithm.git",
-  tag = "v0.1.1"
+  tag = "0.1.1-1",
+  url = "git://github.com/LuaDist-testing/astar.git"
 }
+-- Original source
+-- source = {
+--   url = "git://github.com/reasonMix/a-star-algorithm.git",
+--   tag = "v0.1.1"
+-- }
 description={
    summary = 'a star algorithm',
    detailed = 'a star algorithm',
